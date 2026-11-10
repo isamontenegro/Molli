@@ -1,0 +1,13 @@
+.FinanceiroDivisao{
+    margin-top: 120px;
+}
+
+.FinanceiroInicial{
+    margin-top: 25px;
+}
+
+.tabelaContainer {
+  background-color: white;
+  overflow: hidden;
+  box-shadow: none !important;
+}
